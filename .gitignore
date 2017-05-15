@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+
+node_modules/**/*
+.expo/*
+npm-debug.*
